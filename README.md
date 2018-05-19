@@ -6,13 +6,13 @@ You are witnessing a regretful duel.
 Each of you speaks for a duelist, though you are not them.
 
 Answer the following about your duelist:
-What is their name?
-How do others refer to them? (she, they, he, Doctor, Monarch, Professor, etc.)
-What do they look like?
+- What is their name?
+- How do others refer to them? (she, they, he, Doctor, Monarch, Professor, etc.)
+- What do they look like?
 
 Answer the following together:
-The duelists were once very close, but something has compelled them to fight. What was it? (an unforgivable deed, an outside force, a regretful responsibility, etc.)
-What weapons are being used in this duel? (ancient swords, beautiful songs, forgotten curses, etc.)
+- The duelists were once very close, but something has compelled them to fight. What was it? (an unforgivable deed, an outside force, a regretful responsibility, etc.)
+- What weapons are being used in this duel? (ancient swords, beautiful songs, forgotten curses, etc.)
 
 Assign one side of the coin to each of the duelists.
 
