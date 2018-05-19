@@ -27,3 +27,8 @@ The player who wins three coin tosses describes what becomes of the defeated due
 The other player describes how the winning duelist copes with what they've done in the time that follows.
 
 Together, talk about a wonderful moment between the duelists that will never arrive because of what has happened here.
+
+----------
+
+
+This work is licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
